@@ -4,10 +4,10 @@ The LongForm dataset is created by leveraging English corpus examples with augme
 ![The LongForm dataset](figures/intro_example.jpg)
 
 ## The Dataset and Models
-We release _the LongForm dataset_ on [Github](https://github.com/akoksal/LongForm/tree/main/dataset) and on [HuggingFace](https://huggingface.co/datasets/akoksal/LongForm). Check out the paper or these links for more detail.
+We release _the LongForm dataset_ on [Github](https://github.com/akoksal/LongForm/tree/main/dataset) and on [Hugging Face](https://huggingface.co/datasets/akoksal/LongForm). Check out the paper or these links for more detail.
 
 _The LongForm Models_:
-We release the models on the model hub of HuggingFace. We cannot release LongForm-LLaMA-7B publicly due to restrictions of LLaMA models.
+We release the models on the model hub of Hugging Face. We cannot release LongForm-LLaMA-7B publicly due to restrictions of LLaMA models.
 
 LongForm-**T5-XL**: https://huggingface.co/akoksal/LongForm-T5-XL
 
