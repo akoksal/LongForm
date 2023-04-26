@@ -38,7 +38,7 @@ We provide in-depth evaluation of LongForm models and baselines in the paper. We
 ## Limitations
 The LongForm dataset and models mainly focus on long text generation and have limitations regarding structured prediction tasks in NLP. Additionally, we observe that LongForm models may present hallucination problems similar to those found in LLMs.
 
-## Reference
+## Citation
 ```
 @misc{koksal2023longform,
       title={LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction}, 
