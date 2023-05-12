@@ -38,6 +38,9 @@ We provide in-depth evaluation of LongForm models and baselines in the paper. We
 ## Limitations
 The LongForm dataset and models mainly focus on long text generation and have limitations regarding structured prediction tasks in NLP. Additionally, we observe that LongForm models may present hallucination problems similar to those found in LLMs.
 
+## License
+The LongForm project is subject to a MIT License with custom limitations for restrictions imposed by OpenAI (for the instruction generation part), as well as the license of language models (OPT, LLaMA, and T5).
+
 ## Citation
 ```
 @misc{koksal2023longform,
