@@ -8,14 +8,13 @@ We release _the LongForm dataset_ on [Github](https://github.com/akoksal/LongFor
 
 _The LongForm Models_:
 We release the models on the model hub of HuggingFace. We cannot release LongForm-LLaMA-7B publicly due to restrictions of LLaMA models.
-
-LongForm-**T5-XL**: https://huggingface.co/akoksal/LongForm-T5-XL
-
-LongForm-**OPT-2.7B**: https://huggingface.co/akoksal/LongForm-OPT-2.7B
-
-LongForm-**OPT-6.7B**: https://huggingface.co/akoksal/LongForm-OPT-6.7B
-
-LongForm-**LLaMA-7B**-diff*: https://huggingface.co/akoksal/LongForm-LLaMA-7B
+- LongForm-**LLaMA-7B**-diff*: https://huggingface.co/akoksal/LongForm-LLaMA-7B-diff
+- LongForm-**T5-XL**: https://huggingface.co/akoksal/LongForm-T5-XL
+- LongForm-**OPT-125M**: https://huggingface.co/akoksal/LongForm-OPT-125M
+- LongForm-**OPT-350M**: https://huggingface.co/akoksal/LongForm-OPT-350M
+- LongForm-**OPT-1.3B**: https://huggingface.co/akoksal/LongForm-OPT-1.3B
+- LongForm-**OPT-2.7B**: https://huggingface.co/akoksal/LongForm-OPT-2.7B
+- LongForm-**OPT-6.7B**: https://huggingface.co/akoksal/LongForm-OPT-6.7B
 
 *You need to have the original weights of LLaMA-7B and add with this diff to get the LongForm model. 
 
