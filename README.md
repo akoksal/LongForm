@@ -33,6 +33,11 @@ We provide in-depth evaluation of LongForm models and baselines in the paper. We
 | **[LongForm-OPT-6.7B](https://huggingface.co/akoksal/LongForm-OPT-6.7B)** | 17.7    | 16.9                              | 17.2     | 19.0                |
 | [**LongForm-LLaMA-7B**](https://huggingface.co/akoksal/LongForm-LLaMA-7B-diff)‡ | **19.7**    | **21.7**                              | **18.6**     | 18.9                |
 
+Smaller versions of LongForm-OPT models are also available:
+- [**LongForm-OPT-1.3B**](https://huggingface.co/akoksal/LongForm-OPT-1.3B)
+- [**LongForm-OPT-350M**](https://huggingface.co/akoksal/LongForm-OPT-350M)
+- [**LongForm-OPT-125M**](https://huggingface.co/akoksal/LongForm-OPT-125M)
+
 ‡: We can just release the difference between LongForm-LLaMA-7B and pretrained LLaMA-7B publicly due to restrictions of LLaMA models.
 
 ## Limitations
